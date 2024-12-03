@@ -61,8 +61,8 @@ namespace Blog
             User user = new()
             {
                 Id = 11,
-                Name = "Renato Alvins Suporte",
-                Email = "renatimcodessuppoort@gmail.com",
+                Name = "Renato Suporte",
+                Email = "renatimsuppoort@gmail.com",
                 PasswordHash = "12",
                 Bio = "Renato | Estuda Reactxxx",
                 Image = "renato_react_front.png",
